@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:bootstrap="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <LinearLayout 
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:orientation="vertical">
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+ <com.beardedhen.androidbootstrap.BootstrapCircleThumbnail
+                android:id="@+id/headshot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                bootstrap:bct_size="large"/>
+<LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginTop="15dip"
+            android:text="@string/ch_name"
+            android:textSize="15sp"/>
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginTop="10dip"
+            android:text="@string/en_name"
+            android:textSize="15sp"/>
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginTop="10dip"
+            android:text="@string/birthday"
+            android:textSize="15sp"/>
+        
+    </LinearLayout>
+</LinearLayout> 
+ 
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="HIGHE ST EDUCATION LEVEL"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="Master"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="FIELD OF STUDY"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="Software Engineeing"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="MAJOR"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="@string/department"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="UNVIERSITY"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+      <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="@string/university"
+            android:textSize="20sp"/>
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="PROJECT RESEARCH"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/topics"
+                android:textSize="20sp"/>
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="Abstract"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+         <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:gravity="center"
+            android:text="@string/Abstract"
+            android:textSize="20sp"/>
+ </LinearLayout>
+</LinearLayout>
+</ScrollView> 

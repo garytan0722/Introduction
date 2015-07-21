@@ -1,0 +1,80 @@
+<resources>
+
+    <string name="app_name">Introduction</string>
+    <string name="close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="introduction">Introduction</string>
+    <string name="skill">Skill</string>
+    <string name="product">Product</string>
+    <string name="detail">Detail</string>
+    <string name="ch_name">Chinese Name：譚庚倫</string>
+    <string name="en_name">English Name：Genglun Tan</string>
+    <string name="birthday">DATE OF BRTH：1993/07/22</string>
+    <string name="educational">Master</string>
+    <string name="department">Department of Computer and Communication Engineeing</string>
+    <string name="university">Ming Chunan Uiniversity</string>
+    <string name="topics">Smart Phone Manage System</string>
+    <string name="Abstract">Mobile phones have become very popular and almost 60% of mobile phones are smart phone.
+
+People are relying on the smart phones because of the versatile resources and functions.  However there 
+
+are some problems while using smart phones including unpredictable battery usage, uncontrollable 
+
+network amount, inefficient resource management, insecure system protection and lower performance.  
+
+There exists simple system management function built on the smart phone system and many apps with 
+
+resource management are available in the app stores.  Most systems store the managed data on the local 
+
+storage and are not able to maintain long term information, and thus cannot analyze the data to predict 
+
+the resource requirement and detect abnormal behaviors.  This research develops and designs a smart 
+
+phone management system to use the app to periodically collect resource usages and transfer the data to 
+
+a remote server which stores the data into the database.  The long term information in the database is 
+
+processed via statistic methods and combined with cloud services and to provide intergraded services to 
+
+users.  The resource usages include battery, WiFi/3G, and GPS positions.  The gathered information are 
+
+presented as time sequences and analyzed by using mathematic statistics.  Google map is displayed to 
+
+position user’s GPS traces and allow users to query phone’s location records.  The contribution of this 
+
+research is creating a management platform for smart phone systems to enhance the performance and 
+
+security.  The infrastructure and long term information are valuable for researchers to work on related 
+
+topics and thus improve the development of industry and researches.</string>
+	<string name="systemweb">https://nrl.cce.mcu.edu.tw/pgi/</string>
+	<string name="license1">Adobe Flash CS5 ACA</string>
+	<string name="license2">Oracle Certified Professional, Java SE 6 Programmer</string>
+	<string name="license3">Maya 2013 Certified Professional</string>
+	<string name="license4">TQC Word 2010 (Primary)</string>
+	<string name="license5">TQC Power point 2010(Primary)</string>
+	<string name="license6">TQC English key_in (Primary 15words/min)</string>
+	<string name="license7">Microsoft Certified Professional Networking Fundamentals</string>
+	<string name="project">Research Creativity Award from the National Science Council, Taiwan.</string>
+	<string name="rank1">ranked number one in Department</string>
+	<string name="rank3">ranked number three in Department</string>
+	<string name="job1company">Trainee, Taiwan National NetworkInformation Center</string>
+	<string name="job1time">July - August ,2014 January- February,2015</string>
+	<string name="job1">I learn many knowledge about Internet. For example use Linux to make up DNS server and use Apache make up Web server, then I also learn how to  communicate with colleague.</string>
+	<string name="job2time">May 1,2014- February 28,2015</string>
+	<string name="job2company">Customer service EVERNET company</string>
+	<string name="job2">I can fix the Internet problem on phone in this company, for example Internet can not work, I will guide the user to set up IP. Then I also detect the device, for example ATUR、router.</string>
+	<string name="lkari">lkari Coffee Part Time</string>
+	<string name="lkaritime">July,2011-October,2011</string>
+	<string name="McDonald">McDonald Part Time</string>
+	<string name="McDonaldtime">February,2012-September,2013</string>
+	<string name="Worldfamily">World family Exhibition Activity staff</string>
+	<string name="Worldfamilytime">March,2012-August,2012</string>
+	<string name="Evernetcompany">Evernet company Customer Service</string>
+	<string name="Evernetcompanytime">May 1,2014- February 28,2015</string>
+	<string name="product1">You can use this joystick to control the position of the person and blow the buzzer to destroy the stairs.</string>
+	<string name="product2">The Kinect detects action of the player. When the player moves his right or left hand,the enemies lose their blood. The player also can move the body to dodge the enemy attack.</string>
+	<string name="product3">I use Maya 3D to create my ideal home.</string>
+	<string name="product4">Make the image binarization. The white parts in this image automatically turn white and the black parts turn black as well.Red color is adopted to frame the license plate.</string>
+	<string name="product5">Clients can chat in this chatroom. Input the ip and choose one client to chat on the client list,clients also can create nick names before get into the chatroom.</string>
+</resources> 

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="SOCIAL EXPERIENCE"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+    <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:text="@string/lkaritime"
+            android:textSize="15sp"/>
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="10dip"
+            android:text="@string/lkari"
+            android:textSize="13sp"/>
+     
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:text="@string/McDonaldtime"
+            android:textSize="12sp"/>
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="10dip"
+            android:text="@string/McDonald"
+            android:textSize="13sp"/>
+     
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:text="@string/Worldfamilytime"
+            android:textSize="15sp"/>
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="10dip"
+            android:text="@string/Worldfamily"
+            android:textSize="13sp"/>
+     
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:text="@string/Evernetcompanytime"
+            android:textSize="14sp"/>
+     <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="10dip"
+            android:text="@string/Evernetcompany"
+            android:textSize="13sp"/>
+     
+
+</LinearLayout>
+ <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:text="KEY SKILLS AND PERSONAL ATTRIBUTES"
+            android:background="#7DD0D7"
+            android:textSize="20sp"/>
+ <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Willing to learn and work hard"
+            android:textSize="20sp"/>
+ <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Negotiate and mediate conflicts"
+            android:textSize="20sp"/>
+  <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Present ideas clearly in writing and orally"
+            android:textSize="20sp"/>
+   <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Think internationally"
+            android:textSize="20sp"/>
+   <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Analyze and solve problems systematically and logically"
+            android:textSize="20sp"/>
+   <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Make effective decisions"
+            android:textSize="20sp"/>
+   <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text=" Demonstrate leadership"
+            android:textSize="20sp"/>
+    <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Work in a team and individually"
+            android:textSize="20sp"/>
+    <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Interact effectively within a diverse environment"
+            android:textSize="20sp"/>
+    <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginLeft="10dip"
+            android:text="Sociable and friendly"
+            android:textSize="20sp"/>
+</LinearLayout>
+</ScrollView>
